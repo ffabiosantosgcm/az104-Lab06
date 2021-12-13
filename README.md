@@ -7,4 +7,5 @@ creating the mesh topology, which you tested in the previous lab). This testing 
 hub, as well as traffic distribution across virtual machines by using layer 4 and layer 7 load balancers. For 
 this purpose, you intend to use Azure Load Balancer (layer 4) and Azure Application Gateway (layer 7).
 
-![Screenshot](screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/73297075/145904642-c6c90213-a777-4c99-9f0f-8d112a096bc3.PNG)
+
