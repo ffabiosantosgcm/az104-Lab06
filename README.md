@@ -8,4 +8,4 @@ hub, as well as traffic distribution across virtual machines by using layer 4 an
 this purpose, you intend to use Azure Load Balancer (layer 4) and Azure Application Gateway (layer 7).
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/desenho.jpg?raw=true "Title")
