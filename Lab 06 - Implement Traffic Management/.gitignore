@@ -1,5 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
+/screenshot.PNG
 
 # .tfstate files
 *.tfstate
